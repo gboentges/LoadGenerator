@@ -1,2 +1,0 @@
-# LoadGenerator
-HTTP Load generator
